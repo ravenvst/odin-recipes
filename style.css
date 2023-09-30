@@ -3,10 +3,14 @@ h1 {
     color: chocolate;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 35px;
+    background-color: lightsalmon;
 }
 
 img {
     height: auto;
     width: 20%;
-
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
+
