@@ -12,7 +12,12 @@ h1 {
     background-color: lightsalmon;
     width: 40%;
     padding: 20px;
-    margin: 0px auto;
+    margin: 15px auto;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 40px;
 }
 
 img {
