@@ -10,9 +10,8 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 35px;
     background-color: #ffa07a;
-    width: 40%;
-    padding: 20px;
-    margin: 25px auto;
+    width: 100%;
+    padding: 20px 0;
 }
 
 h2 {
@@ -23,12 +22,17 @@ h2 {
 }
 
 img {
-    height: auto;
-    width: 20%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     display: block;
-    padding: 40px;
+
+}
+
+header {
+    width: 40%;
+    height: auto;
+    margin: 0px auto;
 }
 
 p {
